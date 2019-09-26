@@ -1,0 +1,46 @@
+h1 {
+  color: #0000ff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3em;
+}
+
+nav {
+  background-color: red;
+  height: 30px;
+  width: 100%;
+}
+
+ul li {
+  display: inline;
+}
+
+li a {
+  padding: 20px;
+}
+
+#team-table {
+  background-color: lightgrey;
+  height: 500px;
+  margin: auto;
+  width: 700px;
+}
+
+#funny-element {
+  height: 30px;
+  width: 200px;
+  background-color: green;
+  margin-top: 1800px;
+  float: right;
+}
+
+img {
+  margin: 10px;
+  border: 1px solid red;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  width: 644px;
+}
